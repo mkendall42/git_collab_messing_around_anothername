@@ -5,5 +5,7 @@ feature/more_README_text: adding another new ine for now (another try on pull re
 feature/more_README_text: adding new line AND editing old lines - may not auto-approve merging now.  
 feature/more_README_text: one more extra line, so 'oringial' viewer can fetch and check it out in git manually.  
 feature/more_README_text: this one will hopefully cause merge conflict (editing in two branches).
+main/more_README_text: I'm editing this here to conflict with the feature/ branch.  MWAHAHA!
+[Note: everything was merged here]
 
 
